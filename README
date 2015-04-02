@@ -1,7 +1,5 @@
 Kernel Density Estimation
 -------------------------
-(c) Tim Nugent 2014
-
 Based on Philipp K. Janert's Perl module:
 http://search.cpan.org/~janert/Statistics-KernelEstimation-0.05 
 
@@ -38,5 +36,3 @@ Options:
 -p <int>   Calculate:
            1 = PDF (default)
            2 = CDF
-
-timnugent@gmail.com
