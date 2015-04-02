@@ -1,4 +1,4 @@
-// Kernel density estimation by Tim Nugent (c) 2014
+/*********** Martin Nikolov ************/
 
 #include <stdlib.h>
 #include <stdint.h>
@@ -45,6 +45,7 @@ vector<double> split(const string &s, char delim) {
     return elems;
 }
 
+// kde main function
 int main(int argc, const char* argv[]){
 
 	KDE* kde = new KDE();

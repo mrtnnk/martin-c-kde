@@ -1,8 +1,4 @@
-// Kernel density estimation by Tim Nugent (c) 2014
-// Based on Philipp K. Janert's Perl module:
-// http://search.cpan.org/~janert/Statistics-KernelEstimation-0.05 
-// Multivariate stuff from here:
-// http://sfb649.wiwi.hu-berlin.de/fedc_homepage/xplore/ebooks/html/spm/spmhtmlnode18.html
+/*********** Martin Nikolov ************/
 
 #include <stdlib.h>
 #include <stdint.h>

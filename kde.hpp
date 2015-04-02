@@ -1,4 +1,4 @@
-// Kernel density estimation by Tim Nugent (c) 2014
+/*********** Martin Nikolov ************/
 
 #ifndef KDE_HPP
 #define KDE_HPP
